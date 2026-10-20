@@ -2,9 +2,7 @@
 
 A macOS menu bar app that shows how much of your Claude Code and Codex plan limits you have used.
 
-```
-Claude 15%·21%  Codex 4%
-```
+![The menu bar item and its menu](docs/screenshot.png)
 
 ## What it shows
 
@@ -89,3 +87,7 @@ Homebrew work.
 1. In the menu, turn off **Start at Login**.
 2. Click **Quit**.
 3. Move `LLMUsageWidget.app` from `/Applications` (or `~/Applications`) to the Trash.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
